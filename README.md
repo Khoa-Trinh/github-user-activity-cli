@@ -4,8 +4,9 @@ A simple **Go command-line tool** to fetch and display a GitHub user’s recent 
 
 Built without external dependencies — just the Go standard library.
 
----
+📍 **Project Idea:** [roadmap.sh – GitHub User Activity](https://roadmap.sh/projects/github-user-activity)
 
+---
 ## ✨ Features
 
 - 🔍 Fetches recent public events from the **GitHub API**.

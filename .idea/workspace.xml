@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6918c8-7a29-4fba-bc2b-9c2e4abcb210" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_test.go" afterDir="false" />
+    <list default="true" id="1d6918c8-7a29-4fba-bc2b-9c2e4abcb210" name="Changes" comment="initial commit: add GitHub User Activity CLI with event fetching and formatting">
+      <change beforePath="$PROJECT_DIR$/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +93,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit: add GitHub User Activity CLI with event fetching and formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit: add GitHub User Activity CLI with event fetching and formatting" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
